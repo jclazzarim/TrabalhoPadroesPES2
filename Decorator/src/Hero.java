@@ -1,5 +1,5 @@
 
-public class Nu extends Tier {
+public class Hero extends Tier {
 
 	@Override
 	public int getIlvl() {

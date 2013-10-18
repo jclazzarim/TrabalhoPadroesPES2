@@ -1,6 +1,6 @@
 public class Main {
 	public static void main(String[] args) {
-		Tier t = new Nu();
+		Tier t = new Hero();
 		System.out.println("Ilvl: " + t.getIlvl() + " Partes: " + t.getPartes());
 		
 		t = new Legs(t);
